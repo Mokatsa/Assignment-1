@@ -1,0 +1,55 @@
+body{font-family: arial; 
+margin: 0;
+background: blue;
+color: white;}
+button{background: skyblue; color: white; padding: 10px 20px; border: none;}
+
+.card{background: #1a1a1a; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);}
+
+h3{color: white;}
+
+header{background: #222; color: white;
+padding: 15px; 
+text-align: margin-left;}
+
+nav{display: flex;
+justify-content: center; background: black;}
+
+
+nav a{color: white; margin: 10px; 
+text-decoration: none;}
+
+nav a:hover{color: blue;}
+
+.hero{background: url(night.jpg); color: white;
+padding: 60px; 
+text-align: center;}
+
+.video-section{width: 45%; margin: 10px;}
+
+table, th, td{padding: 45px; background-color: black; width: 30%}
+
+th,td{padding: 44px;
+text-align: center;}
+
+.shows{display: flex; justify-content: space-around;
+margin: 20px;}
+
+.card{background: black;
+padding: 10px;
+width: 30%;}
+
+.card img{width: 100%;}
+
+.banner img{width: 30%; margin: 10px;}
+
+.hero{padding: 20px; text-align:
+ margin-left;}
+
+.about{padding: 20px;
+text-align: center;}
+
+footer{text-align: center; padding: 10px;
+background: #222; color: white:}
+
+
